@@ -1,0 +1,16 @@
+{
+  "name": "svelte-preprocess-root-dir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node preprocess.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "svelte": "3.44.1",
+    "svelte-preprocess": "4.9.8",
+    "typescript": "4.4.4"
+  }
+}
